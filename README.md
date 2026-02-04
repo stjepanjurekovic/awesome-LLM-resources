@@ -766,6 +766,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 20. [《大模型算法：强化学习、微调与对齐》](https://book.douban.com/subject/37331056/)
 21. [《The Smol Training Playbook: The Secrets to Building World-Class LLMs》](https://github.com/WangRongsheng/awesome-LLM-resources/blob/main/books/the-smol-training-playbook-the-secrets-to-building-world-class-llms.pdf)
 22. [《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents)
+23. [CUDA for Deep Learning](https://www.manning.com/books/cuda-for-deep-learning)
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
